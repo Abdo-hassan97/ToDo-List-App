@@ -8,6 +8,12 @@ npm install
 ```
 npm run start
 ```
+## Users Password
+```
+zucker :123456
+felon :123123
+robon :secret
+```
 
 ### Compiles and hot-reloads for development
 ```
