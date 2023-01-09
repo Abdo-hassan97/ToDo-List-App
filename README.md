@@ -4,7 +4,8 @@
 ```
 npm install
 ```
-to run the sever 
+## to run the sever 
+```
 npm run start
 
 ### Compiles and hot-reloads for development
